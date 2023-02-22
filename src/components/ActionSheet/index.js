@@ -17,6 +17,7 @@ const CustomActionSheet = ({actionSheetRef, children}) => {
         borderTopRightRadius: 23,
         backgroundColor: COLORS.secondary,
       }}>
+        
       <View
         style={{
           height: 3,
